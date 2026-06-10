@@ -32,15 +32,15 @@ Cada disciplina cobre uma etapa desse ciclo.
 | 05 | Generative AI & Advanced Nets | **Space Connect** | Assistente RAG sobre a nova economia espacial, com citação de fontes | `05-genai-advanced-nets-spaceconnect/` |
 | 06 | Physical Computing, Embedded AI & Cognitive IoT | *(pendente)* | — | `06-physical-computing-iot/` |
 | 07 | PLN, Chatbots & Virtual Agents | **Edifícios Verdes & Net Zero** | Chatbot RAG sobre autossuficiência de energia e água, ponte Terra → habitats espaciais | `07-pln-chatbots-edificios-verdes/` |
-| 08 | Visão Computacional | *(pendente)* | — | `08-visao-computacional/` |
+| 08 | Visão Computacional | **Wildfire Transfer Learning** | Classificação de imagens de satélite (`wildfire` vs `nowildfire`) com MobileNetV2 — acurácia 96 %, ROC AUC 0,995 | `08-visao-computacional/` |
 | 09 | Governança em IA & Business Analytics | **Relatório de Integração** | Costura todos os módulos, avalia riscos, vieses e aderência aos ODS | `09-governanca/` |
 
 ## Como cada elo se conecta
 
 - **Em órbita:** o QML (03) vigia a saúde do próprio satélite, enquanto o sensor neuromórfico (02) leva a mesma lógica de "só avisa quando importa" para uma missão tripulada em Marte.
-- **Observando a Terra:** o SpaceWatch (01) monitora o que vem do espaço em direção à Terra (asteroides), e o SENTINELA Orbital (04) usa o que os satélites veem da Terra (focos de queimada) para gerar alerta com revisão humana.
+- **Observando a Terra:** o SpaceWatch (01) monitora o que vem do espaço em direção à Terra (asteroides), a Visão Computacional (08) lê automaticamente as imagens de satélite e classifica risco de queimada, e o SENTINELA Orbital (04) consome esse sinal para gerar alerta com revisão humana.
 - **Conhecimento e decisão:** o Space Connect (05) responde perguntas sobre o setor a partir de documentos científicos reais, e o chatbot de edifícios verdes (07) conecta a autossuficiência terrestre à exigida em habitats fora da Terra.
-- **Governança (09):** o elo que olha para os sete anteriores e pergunta quem responde quando a IA erra, onde há viés, e o que ficou de fora.
+- **Governança (09):** o elo que olha para os oito anteriores e pergunta quem responde quando a IA erra, onde há viés, e o que ficou de fora.
 
 ## Links
 
@@ -60,7 +60,7 @@ GS2026_4M_NovaEconomiaEspacial/
 ├── 05-genai-advanced-nets-spaceconnect/
 ├── 06-physical-computing-iot/         # pendente
 ├── 07-pln-chatbots-edificios-verdes/
-├── 08-visao-computacional/            # pendente
+├── 08-visao-computacional/            # Wildfire Transfer Learning (MobileNetV2)
 ├── 09-governanca/                     # relatório de integração (ABNT/FIAP)
 ├── docs/                              # roteiro do vídeo e apoio
 └── README.md
