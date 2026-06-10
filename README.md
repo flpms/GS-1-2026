@@ -45,7 +45,7 @@ Cada disciplina cobre uma etapa desse ciclo.
 ## Links
 
 - **Vídeo (YouTube, não listado):** _a publicar — ver `docs/`_
-- **Repositório (este):** _a publicar_
+- **Repositório (este):** https://github.com/flpms/GS-1-2026
 - **SpaceWatch RPA:** https://github.com/paivazzz/GS_RPA
 - **SENTINELA Orbital (Front):** https://github.com/paivazzz/GS_Front
 

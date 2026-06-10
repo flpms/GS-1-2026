@@ -136,7 +136,10 @@ com o nome do grupo e os links do vídeo e do repositório.
 - [ ] Cada disciplina aparece pelo menos uma vez na tela, em funcionamento.
 - [ ] Sem termos de efeito, hipérbole ou adjetivo empilhado (o enunciado penaliza).
 - [ ] Travessões fora da narração: resolver com vírgula ou ponto.
-- [ ] Conferir se os dois módulos pendentes (Physical Computing e Visão
-      Computacional) entraram no vídeo. Se ficarem de fora, não citá-los como
-      prontos.
+- [ ] Garantir que os dois módulos que entraram em cima da hora (Physical
+      Computing e Visão Computacional) apareçam na demonstração de tela: a
+      estação meteorológica IoT no Wokwi, mostrando o JSON saindo no console,
+      e o classificador de wildfire com a matriz de confusão e a curva ROC.
+- [ ] Repositório (este monorepo): https://github.com/flpms/GS-1-2026 — link
+      pronto para a descrição do vídeo.
 - [ ] Vídeo publicado como "Não listado" e link colado no README e no relatório.

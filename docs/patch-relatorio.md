@@ -175,7 +175,22 @@ tardio":
 
 ---
 
-## 8. Referências
+## 8. Tópico 13 Links — URL do repositório
+
+**Substituir**
+
+> **Repositório completo da Global Solution (GitHub):** *a publicar*
+
+**por**
+
+> **Repositório completo da Global Solution (GitHub):**
+> [github.com/flpms/GS-1-2026](https://github.com/flpms/GS-1-2026)
+
+O link do vídeo continua como "a publicar" até a gravação ficar pronta.
+
+---
+
+## 9. Referências
 
 **Adicionar** ao final da lista de Referências:
 
