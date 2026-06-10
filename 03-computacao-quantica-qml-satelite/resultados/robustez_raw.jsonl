@@ -1,0 +1,32 @@
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.75, "precisao": 0.7368421052631579, "recall": 0.7777777777777778, "f1": 0.7567567567567568, "t_treino_s": 0.00141260999998849, "seed": 0}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8055555555555556, "precisao": 0.8235294117647058, "recall": 0.7777777777777778, "f1": 0.8, "t_treino_s": 0.28897275200006334, "seed": 0}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.6944444444444444, "precisao": 0.7058823529411765, "recall": 0.6666666666666666, "f1": 0.6857142857142857, "t_treino_s": 35.99793178499999, "seed": 0}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.5555555555555556, "precisao": 0.5714285714285714, "recall": 0.4444444444444444, "f1": 0.5, "t_treino_s": 36.303038238, "seed": 0}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.75, "precisao": 0.8, "recall": 0.6666666666666666, "f1": 0.7272727272727273, "t_treino_s": 0.0014651500000582018, "seed": 1}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8333333333333334, "precisao": 0.8333333333333334, "recall": 0.8333333333333334, "f1": 0.8333333333333334, "t_treino_s": 0.29587880700000824, "seed": 1}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.9166666666666666, "precisao": 0.9411764705882353, "recall": 0.8888888888888888, "f1": 0.9142857142857143, "t_treino_s": 33.650298679, "seed": 1}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.6111111111111112, "precisao": 0.75, "recall": 0.3333333333333333, "f1": 0.46153846153846156, "t_treino_s": 34.88849711499995, "seed": 1}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.7222222222222222, "precisao": 0.9, "recall": 0.5, "f1": 0.6428571428571429, "t_treino_s": 0.0012823880000496501, "seed": 2}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8055555555555556, "precisao": 0.8666666666666667, "recall": 0.7222222222222222, "f1": 0.7878787878787878, "t_treino_s": 0.30346126099993853, "seed": 2}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.7777777777777778, "precisao": 0.9166666666666666, "recall": 0.6111111111111112, "f1": 0.7333333333333333, "t_treino_s": 34.31994138699997, "seed": 2}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.6111111111111112, "precisao": 0.6428571428571429, "recall": 0.5, "f1": 0.5625, "t_treino_s": 34.66631307900002, "seed": 2}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.8333333333333334, "precisao": 1.0, "recall": 0.6666666666666666, "f1": 0.8, "t_treino_s": 0.0015952549999838084, "seed": 7}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8333333333333334, "precisao": 0.8, "recall": 0.8888888888888888, "f1": 0.8421052631578947, "t_treino_s": 0.297435231999998, "seed": 7}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.8333333333333334, "precisao": 0.8, "recall": 0.8888888888888888, "f1": 0.8421052631578947, "t_treino_s": 33.75793783400002, "seed": 7}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.4444444444444444, "precisao": 0.45454545454545453, "recall": 0.5555555555555556, "f1": 0.5, "t_treino_s": 34.42800510899997, "seed": 7}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.7777777777777778, "precisao": 1.0, "recall": 0.5555555555555556, "f1": 0.7142857142857143, "t_treino_s": 0.0013150380000297446, "seed": 13}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.75, "precisao": 0.8461538461538461, "recall": 0.6111111111111112, "f1": 0.7096774193548387, "t_treino_s": 0.2963456329999872, "seed": 13}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.8888888888888888, "precisao": 0.9375, "recall": 0.8333333333333334, "f1": 0.8823529411764706, "t_treino_s": 33.50653489700005, "seed": 13}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.6388888888888888, "precisao": 0.7272727272727273, "recall": 0.4444444444444444, "f1": 0.5517241379310345, "t_treino_s": 34.94859269599988, "seed": 13}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.75, "precisao": 1.0, "recall": 0.5, "f1": 0.6666666666666666, "t_treino_s": 0.00156132000006437, "seed": 21}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8333333333333334, "precisao": 0.875, "recall": 0.7777777777777778, "f1": 0.8235294117647058, "t_treino_s": 0.2975103349999699, "seed": 21}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.8055555555555556, "precisao": 0.7619047619047619, "recall": 0.8888888888888888, "f1": 0.8205128205128205, "t_treino_s": 35.2548550219999, "seed": 21}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.5833333333333334, "precisao": 0.6666666666666666, "recall": 0.3333333333333333, "f1": 0.4444444444444444, "t_treino_s": 36.43684572799998, "seed": 21}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.6388888888888888, "precisao": 0.7272727272727273, "recall": 0.4444444444444444, "f1": 0.5517241379310345, "t_treino_s": 0.001459170999851267, "seed": 42}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.75, "precisao": 0.8, "recall": 0.6666666666666666, "f1": 0.7272727272727273, "t_treino_s": 0.29737067500013836, "seed": 42}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.8611111111111112, "precisao": 0.9333333333333333, "recall": 0.7777777777777778, "f1": 0.8484848484848485, "t_treino_s": 36.15929224399997, "seed": 42}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.7777777777777778, "precisao": 0.8571428571428571, "recall": 0.6666666666666666, "f1": 0.75, "t_treino_s": 36.93399027800001, "seed": 42}
+{"modelo": "SVM (RBF)", "tipo": "clássico", "acuracia": 0.6388888888888888, "precisao": 0.6923076923076923, "recall": 0.5, "f1": 0.5806451612903226, "t_treino_s": 0.0015205140000489337, "seed": 99}
+{"modelo": "Random Forest", "tipo": "clássico", "acuracia": 0.8055555555555556, "precisao": 0.7894736842105263, "recall": 0.8333333333333334, "f1": 0.8108108108108109, "t_treino_s": 0.29351933599991753, "seed": 99}
+{"modelo": "QSVC (kernel quântico)", "tipo": "quântico", "acuracia": 0.8888888888888888, "precisao": 0.9375, "recall": 0.8333333333333334, "f1": 0.8823529411764706, "t_treino_s": 35.127630097000065, "seed": 99}
+{"modelo": "VQC (variacional)", "tipo": "quântico", "acuracia": 0.4722222222222222, "precisao": 0.48, "recall": 0.6666666666666666, "f1": 0.5581395348837209, "t_treino_s": 36.20974792700008, "seed": 99}

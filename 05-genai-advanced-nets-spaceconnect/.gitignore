@@ -1,0 +1,24 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Índice FAISS gerado (pode ser reconstruído com python -m rag.vectorstore)
+indice/
+
+# Cache de modelos / Hugging Face
+.cache/
+*.faiss
+*.pkl
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

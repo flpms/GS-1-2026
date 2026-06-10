@@ -1,0 +1,17 @@
+[
+  {
+    "nivel": "ideal",
+    "diag_media": 1.0,
+    "desvio_vs_ideal": 0.0
+  },
+  {
+    "nivel": "moderado",
+    "diag_media": 1.0,
+    "desvio_vs_ideal": 0.0355
+  },
+  {
+    "nivel": "alto",
+    "diag_media": 1.0,
+    "desvio_vs_ideal": 0.0522
+  }
+]

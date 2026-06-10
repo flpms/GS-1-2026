@@ -1,0 +1,62 @@
+[
+  {
+    "modelo": "SVM (RBF)",
+    "tipo": "clássico",
+    "acuracia": 0.639,
+    "f1": 0.552,
+    "t_treino_s": 0.002,
+    "n_qubits": 0,
+    "profundidade_circuito": 0,
+    "conjunto": "reduzido"
+  },
+  {
+    "modelo": "Random Forest",
+    "tipo": "clássico",
+    "acuracia": 0.75,
+    "f1": 0.727,
+    "t_treino_s": 0.375,
+    "n_qubits": 0,
+    "profundidade_circuito": 0,
+    "conjunto": "reduzido"
+  },
+  {
+    "modelo": "QSVC (kernel quântico)",
+    "tipo": "quântico",
+    "acuracia": 0.833,
+    "f1": 0.812,
+    "t_treino_s": 38.44,
+    "n_qubits": 4,
+    "profundidade_circuito": 31,
+    "conjunto": "reduzido"
+  },
+  {
+    "modelo": "VQC (variacional)",
+    "tipo": "quântico",
+    "acuracia": 0.583,
+    "f1": 0.516,
+    "t_treino_s": 38.27,
+    "n_qubits": 4,
+    "profundidade_circuito": 39,
+    "conjunto": "reduzido"
+  },
+  {
+    "modelo": "SVM (RBF) [dataset completo]",
+    "tipo": "clássico",
+    "acuracia": 0.914,
+    "f1": 0.696,
+    "t_treino_s": 0.002,
+    "n_qubits": 0,
+    "profundidade_circuito": 0,
+    "conjunto": "completo"
+  },
+  {
+    "modelo": "Random Forest [dataset completo]",
+    "tipo": "clássico",
+    "acuracia": 0.932,
+    "f1": 0.792,
+    "t_treino_s": 0.409,
+    "n_qubits": 0,
+    "profundidade_circuito": 0,
+    "conjunto": "completo"
+  }
+]

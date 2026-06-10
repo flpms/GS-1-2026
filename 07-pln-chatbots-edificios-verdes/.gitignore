@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+indice/faiss.index
+indice/metadados.json
+data/*.pdf
+.DS_Store

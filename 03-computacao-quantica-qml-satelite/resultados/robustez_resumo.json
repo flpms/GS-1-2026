@@ -1,0 +1,54 @@
+[
+  {
+    "modelo":"QSVC (kernel quântico)",
+    "acuracia_mean":0.8333333333,
+    "acuracia_std":0.0727392967,
+    "precisao_mean":0.8667454482,
+    "precisao_std":0.0954702082,
+    "recall_mean":0.7986111111,
+    "recall_std":0.1068116574,
+    "f1_mean":0.8261427685,
+    "f1_std":0.0785654977,
+    "t_treino_s_mean":34.7218027431,
+    "t_treino_s_std":1.0595987771
+  },
+  {
+    "modelo":"Random Forest",
+    "acuracia_mean":0.8020833333,
+    "acuracia_std":0.0346228737,
+    "precisao_mean":0.8292696178,
+    "precisao_std":0.0318960038,
+    "recall_mean":0.7638888889,
+    "recall_std":0.0927247734,
+    "f1_mean":0.7918259692,
+    "f1_std":0.0487182885,
+    "t_treino_s_mean":0.2963117539,
+    "t_treino_s_std":0.0040845126
+  },
+  {
+    "modelo":"SVM (RBF)",
+    "acuracia_mean":0.7326388889,
+    "acuracia_std":0.0662977557,
+    "precisao_mean":0.8570528156,
+    "precisao_std":0.1335427266,
+    "recall_mean":0.5763888889,
+    "recall_std":0.1147710703,
+    "f1_mean":0.6800260384,
+    "f1_std":0.0858447649,
+    "t_treino_s_mean":0.0014514308,
+    "t_treino_s_std":0.0001111416
+  },
+  {
+    "modelo":"VQC (variacional)",
+    "acuracia_mean":0.5868055556,
+    "acuracia_std":0.1033366402,
+    "precisao_mean":0.6437391775,
+    "precisao_std":0.1374099193,
+    "recall_mean":0.4930555556,
+    "recall_std":0.130922315,
+    "f1_mean":0.5410433223,
+    "f1_std":0.0952823752,
+    "t_treino_s_mean":35.6018787712,
+    "t_treino_s_std":0.9652371298
+  }
+]

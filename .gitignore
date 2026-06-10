@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Índices grandes (gerados — reconstrua com os scripts de cada projeto)
+# Descomente se preferir não versionar:
+# **/indice/*.faiss
+# **/indice/*.pkl
+
+# Sistema
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
